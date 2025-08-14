@@ -24,10 +24,7 @@ redirect_from:
 - *2025.07*: &nbsp;🎊🎃 I was honored to receive the Graduate Student Research Award at Boston University College of Communication. 
 
 # 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-  
+<div markdown="0"> 
 <span style="color: #EFC3CA">2025 **·** National Communication Association (Communication and Future Division)</span>
 Can AI Customer Service Be Trusted? The Impact of Anthropomorphism and Response Strategy on Memory of Service Failures
 **Xuening HU**, Ruochen LVY, Shuyu Jia, Zi Deng, Jinyu Xu
@@ -42,8 +39,6 @@ A Mixed-Methods Study of Narrative Frames in Digital Disaster Reporting in Hong 
 - A comparative content analysis of disaster reporting across Mainland China and Hong Kong
 - Use mixed-methods combining manual coding and Latent Dirichlet Allocation
 - Integrate quantitative analysis with qualitative interpretation
-</div>
-</div>
 
 # 🎖 Honors and Awards
 - *2025.07* Prize for Academic and Professional Achievement, Boston University
@@ -74,6 +69,7 @@ Does the origin matter? A comparative study of the public perception of Generati
 Advisor: Dr. Ayse Lokmanoglu
 - Develop a web scraping pipeline using Python to collect data
 - 
+</div>
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.

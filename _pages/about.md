@@ -64,7 +64,7 @@ My research focuses on the media effects of AI on user cognition and behavior ac
 
 # 👾 Working Paper
 [Master's Thesis]  
-*Do Avatar Likeness and Empathy Expressiveness Influence Self-Disclosure?*   
+*Talking to a Chatbot Therapist: Do Avatar Likeness and Empathy Expressiveness Influence Self-Disclosure?*   
 **Xuening HU**  
 Advisor: Dr. Maria Betsi Grabe & Dr. Joshua Baldwin
 - Ground in media psychology frameworks Computers as Social Actors (CASA) and machine heuristic

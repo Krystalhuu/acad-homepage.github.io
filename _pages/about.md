@@ -16,6 +16,14 @@ Welcome to my website!
 I am a Master's student in the College of Communication at Boston University, studying under the supervision of Drs.  [Maria Betsi Grabe](https://www.bu.edu/com/profile/maria-elizabeth-betsi-grabe/) and [James Cummings](https://www.bu.edu/com/profile/jim-cummings/). Before attending Boston University, I obtained my bachelor's degree at The Chinese University of Hong Kong —— School of Journalism and Communication.
 
 My research focuses on the media effects of AI on user cognition and behavior across digital communication contexts. Most of my work was conducted through experiments and computational methods.
+    
+   
+🎀Some keywords of my interests:  
+- Human-AI Interaction  
+- Human-centered AI Design
+- Media Effect
+- Emerging Media Technology
+- Experiment & Computational Methods
 
 
 # ✨ News
@@ -50,13 +58,13 @@ My research focuses on the media effects of AI on user cognition and behavior ac
 - *2024.01* Best Student Reporter (U-beat Magazine), The Chinese University of Hong Kong
 
 # 📖 Educations
-- *2024.09 - 2025.12 (now)*, MA. Emerging Media Studies, Boston University College of Communication
-- *2020.09 - 2024.06*, BSocSc. Journalism and Communication, The Chinese University of Hong Kong
+- *2024.09 - 2025.12 (now)*, MA. Emerging Media Studies, Boston University
+- *2020.09 - 2024.06*, B.S.Sc. Journalism and Communication, The Chinese University of Hong Kong
 - *2022.08 - 2023.01*, Exchange Study. Communication and New Media, National University of Singapore
 
-# 👾 Ongoing Research
+# 👾 Working Paper
 [Master's Thesis]  
-*Talking to a Chatbot Therapist: Do Avatar and Expression Cues Influence Self-Disclosure?*  
+*Do Avatar Likeness and Empathy Expressiveness Influence Self-Disclosure?*   
 **Xuening HU**  
 Advisor: Dr. Maria Betsi Grabe & Dr. Joshua Baldwin
 - Ground in media psychology frameworks Computers as Social Actors (CASA) and machine heuristic
@@ -85,7 +93,7 @@ Advisor: Dr. Chao Su Chris
 - [Ship Happens: When Logistics Go Wrong](https://ubeat.com.cuhk.edu.hk/%e8%b2%a8%e5%9c%a8%e5%9b%a7%e9%80%94/) (貨在囧途)  
 - [Taiwan 2024 Presidential Election](https://ubeat.com.cuhk.edu.hk/category/tw-election/%e5%8f%b0%e7%81%a3%e5%a4%a7%e9%81%b82024/)  
 - [My Hair, My Choice](https://theinitium.com/article/20230629-mainland-escape-the-corset) (她們剃了寸頭：「我有不美的自由」)  
-- [Digital Lifelines: Rare Disease Patients Keep Watch in the Darkness] (經由互聯網連接的罕見病患者，黑暗中守望)  
+- [Digital Lifelines: Rare Disease Patients Keep Connection in the Darkness] (經由互聯網連接的罕見病患者，黑暗中守望)  
 
 
 

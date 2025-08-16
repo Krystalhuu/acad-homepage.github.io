@@ -88,12 +88,13 @@ Advisor: Dr. Maria Betsi Grabe
 Advisor: Dr. Chao Su Chris  
    
 # 📰 My News Reports
+- Digital Lifelines: Rare Disease Patients Keep Connection in the Darkness (經由互聯網連接的罕見病患者，黑暗中守望)  
 - [Why China's Medical Training System Leaves Young Doctors in Poverty](https://ubeat.com.cuhk.edu.hk/167_%e4%b8%ad%e5%9c%8b%e9%86%ab%e7%94%9f%e5%85%a5%e8%a1%8c%e9%9b%a3-%e4%b8%89%e5%b9%b4%e5%9f%b9%e8%a8%93%e4%bd%8e%e8%96%aa%e6%8e%99%e6%89%8e/) (中國醫生入行難　三年培訓低薪掙扎)   
 - [Is AI Painting Just High-Tech Art Theft? Creatives Say Yes](https://ubeat.com.cuhk.edu.hk/168_ai%e7%b9%aa%e7%95%ab%e7%84%a1%e7%95%b0%e6%96%bc%e5%89%bd%e7%ab%8a-%e7%95%ab%e5%ae%b6%e5%a0%85%e6%8b%92%e4%bd%9c%e5%93%81%e8%a2%ab%e6%8a%95%e9%a4%b5/) (AI繪畫無異於剽竊　畫家堅拒作品被「投餵」)  
 - [Ship Happens: When Logistics Go Wrong](https://ubeat.com.cuhk.edu.hk/%e8%b2%a8%e5%9c%a8%e5%9b%a7%e9%80%94/) (貨在囧途)  
 - [Taiwan 2024 Presidential Election](https://ubeat.com.cuhk.edu.hk/category/tw-election/%e5%8f%b0%e7%81%a3%e5%a4%a7%e9%81%b82024/)  
 - [My Hair, My Choice](https://theinitium.com/article/20230629-mainland-escape-the-corset) (她們剃了寸頭：「我有不美的自由」)  
-- [Digital Lifelines: Rare Disease Patients Keep Connection in the Darkness] (經由互聯網連接的罕見病患者，黑暗中守望)  
+
 
 
 

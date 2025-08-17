@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Krystal"
 excerpt: ""
 author_profile: true
 redirect_from: 
@@ -8,38 +8,54 @@ redirect_from:
   - /about.html
 ---
 
+<span id="about-me"></span>
+<br><br>
+<br><br>
 
-<span class='anchor' id='about-me'></span>
+
+
 
 Welcome to my website!
+<br><br>
 
 I am a Master's student in the College of Communication at Boston University, studying under the supervision of Drs.  [Maria Betsi Grabe](https://www.bu.edu/com/profile/maria-elizabeth-betsi-grabe/) and [James Cummings](https://www.bu.edu/com/profile/jim-cummings/). Before attending Boston University, I obtained my bachelor's degree at The Chinese University of Hong Kong —— School of Journalism and Communication.
 
 My research focuses on the media effects of AI on user cognition and behavior across digital communication contexts. Most of my work was conducted through experiments and computational methods.
-    
+<br><br>
+
+
    
-🎀Some keywords of my interests:  
+🎀 Some keywords of my interests:  
 - Human-AI Interaction  
 - Human-centered AI Design
 - Media Effect
 - Emerging Media Technology
 - Experiment & Computational Methods
+<br><br>
+
 
 
 # ✨ News
+{: #news }
 - *2025.08*: &nbsp;🎉🎉 My first conference presentation, titled 'A Mixed-Methods Study of Narrative Frames in Digital Disaster Reporting in Hong Kong and Mainland China,' was delivered at the Association for Education in Journalism and Mass Communication (News and Online News Division).
 - *2025.07*: &nbsp;🎉🎉 Our work "Can AI Customer Service Be Trusted? The Impact of Anthropomorphism and Response Strategy on Memory of Service Failures" was accepted by National Communication Association (Communication and Future Division).
 - *2025.07*: &nbsp;🎊🎃 I was honored to receive the Graduate Student Research Award at Boston University College of Communication. 
 
-# 📝 Publications 
 
-**2025 · National Communication Association (Communication and Future Division)**  
+
+<br><br>
+
+# 📝 Publications 
+{: #publications }
+
+**2025 · National Communication Association (Communication and the Future Division)**  
 *Can AI Customer Service Be Trusted? The Impact of Anthropomorphism and Response Strategy on Memory of Service Failures*   
 **Xuening Hu**, Ruochen Lvy, Shuyu Jia, Zi Deng, Jinyu Xu     
 *Advisor: Dr. James Cummings*  
 - Design a conversational chatbot using JavaScript, HTML, and CSS
 - Investigate the impact of AI customer service design on corporate communication
 - Apply biometric measure GSR to capture emotional and cognitive responses
+<br><br>
 
 **2025 · Association for Education in Journalism and Mass Communication (News and Online News Division)**  
 *A Mixed-Methods Study of Narrative Frames in Digital Disaster Reporting in Hong Kong and Mainland China*    
@@ -49,7 +65,12 @@ My research focuses on the media effects of AI on user cognition and behavior ac
 - Integrate quantitative analysis with qualitative interpretation
 
 
+
+<br><br>
+
 # 🎖 Honors and Awards
+{: #honors-and-awards } 
+
 - *2025.07* Prize for Academic and Professional Achievement, Boston University
 - *2025.06* Graduate Student Research Award, Boston University
 - *2024.09* Merit-based Scholarship, Boston University
@@ -57,10 +78,19 @@ My research focuses on the media effects of AI on user cognition and behavior ac
 - *2024.06* Best Executive Editor (U-beat Magazine), The Chinese University of Hong Kong
 - *2024.01* Best Student Reporter (U-beat Magazine), The Chinese University of Hong Kong
 
+<br><br>
+
+
+
+
 # 📖 Educations
 - *2024.09 - 2025.12 (now)*, MA. Emerging Media Studies, Boston University
 - *2020.09 - 2024.06*, B.S.Sc. Journalism and Communication, The Chinese University of Hong Kong
 - *2022.08 - 2023.01*, Exchange Study. Communication and New Media, National University of Singapore
+
+<br><br>
+
+
 
 # 👾 Working Paper
 [Master's Thesis]  
@@ -71,21 +101,27 @@ Advisor: Dr. Maria Betsi Grabe & Dr. Joshua Baldwin
 - Investigate psychological mechanisms underlying user interaction with AI-powered therapeutic chatbots
 - Focus on individual cognition and behavioral change processes
 - Employ online experiments and Linguistic Inquiry and Word Count(LIWC)
+<br><br>
 
 [Preparing for ICA 2026]    
 *Does the origin matter? A comparative study of the public perception of Generative AI on Chinese Weibo*  
 **Xuening HU**  
 Advisor: Dr. Ayse Lokmanoglu  
+<br><br>
 
 [Preparing for ICA 2026]  
 *AI Use in Higher Education: A Comparative Study of Faculty and Student Perceptions*  
 **Xuening HU**, Zhenguan Zhu, Xiaoruo Zhang, Yujie Li  
 Advisor: Dr. Maria Betsi Grabe  
+<br><br>
 
 [Preparing for ICA 2026]  
 *Understanding Platform Power in the AI Era: A Comparative Study on Alibaba and Amazon*  
 **Xuening HU**  
 Advisor: Dr. Chao Su Chris  
+
+<br><br>
+
    
 # 📰 My News Reports
 - Digital Lifelines: Rare Disease Patients Keep Connection in the Darkness (經由互聯網連接的罕見病患者，黑暗中守望)  
@@ -94,7 +130,6 @@ Advisor: Dr. Chao Su Chris
 - [Ship Happens: When Logistics Go Wrong](https://ubeat.com.cuhk.edu.hk/%e8%b2%a8%e5%9c%a8%e5%9b%a7%e9%80%94/) (貨在囧途)  
 - [Taiwan 2024 Presidential Election](https://ubeat.com.cuhk.edu.hk/category/tw-election/%e5%8f%b0%e7%81%a3%e5%a4%a7%e9%81%b82024/)  
 - [My Hair, My Choice](https://theinitium.com/article/20230629-mainland-escape-the-corset) (她們剃了寸頭：「我有不美的自由」)  
-
 
 
 

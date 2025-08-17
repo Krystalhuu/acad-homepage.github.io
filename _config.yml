@@ -6,6 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
+baseurl: "/acad-homepage.github.io"
+
 title                    : "Krystal Xuening"
 description              : "Master's student in Boston University Emerging Media Studies. "
 repository               : "Krystalhuu/acad-homepage.github.io"

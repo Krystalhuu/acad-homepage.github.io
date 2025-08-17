@@ -117,13 +117,20 @@ h1:before, .anchor:before {
   justify-content: center; /* 水平居中 */
 }
 
+
+.masthead__menu nav {
+  display: flex;
+  justify-content: center;  /* nav 裡面置中 */
+}
+
 .masthead__menu ul.visible-links {
   display: flex;
   gap: 2rem; /* 每個 menu 之間間距 */
   list-style: none;
   padding: 0;
-  margin: 0;
+  margin: 0; /* 避免 ul 預設 margin 擠掉按鈕 */
 }
+
 
 
 

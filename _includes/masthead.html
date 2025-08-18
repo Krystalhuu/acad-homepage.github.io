@@ -1,27 +1,16 @@
-#<div class="masthead">
-#  <div class="masthead__inner-wrap">
- #   <div class="masthead__menu">
-  #    <nav id="site-nav" class="greedy-nav">
-   #     <button><div class="navicon"></div></button>
-    #    <ul class="visible-links">
-     #     <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item"><a href="#about-me">Homepage</a></li>
-      #    {% for link in site.data.navigation.main %}
-       #     <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
-        #  {% endfor %}
-       # </ul>
-       # <ul class="hidden-links hidden"></ul>
- #     </nav>
-  #  </div>
-#  </div>
-# </div>
 
 <div class="masthead">
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
-        <ul class="visible-links">
+     <nav>  
+      <ul class="visible-links">
           {% for link in site.data.navigation.main %}
             <li class="masthead__menu-item">
-              <a href="{{ link.url }}">{{ link.title }}</a>
+              <a href="{{ site.baseurl }}{% if link.url contains '#' %}{{ link.url }}{% else %}{{ link.url | relative_url }}{% endif %}"
+                 class="nav-link"
+                 data-anchor="{{ link.url | replace: '#', '' }}">
+                 {{ link.title }}
+              </a>
             </li>
           {% endfor %}
         </ul>
@@ -30,3 +19,23 @@
   </div>
 </div>
 
+<script>
+document.querySelectorAll('.nav-link[data-anchor]').forEach(link => {
+  link.addEventListener('click', function(e) {
+    if(this.href.includes('#')) {
+      e.preventDefault();
+      const anchor = this.getAttribute('data-anchor');
+      const target = document.getElementById(anchor);
+      if(target) {
+        const newUrl = '{{ site.baseurl }}/#' + anchor;
+        // 两种跳转方式确保兼容性
+        window.location.hash = anchor;
+        target.scrollIntoView({ behavior: 'smooth' });
+        
+        // 更新浏览器地址（解决 GitHub Pages 的 baseurl 问题）
+        history.pushState(null, null, '{{ site.baseurl }}/#' + anchor);
+      }
+    }
+  });
+});
+</script>

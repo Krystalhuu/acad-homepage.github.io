@@ -1,16 +1,14 @@
-# main links links
-#main:
  
 main:
   - title: "About Me"
-    url: "{{ site.baseurl }}/#about-me"
+    url: "#about-me"
 
   - title: "News"
-    url: "{{ site.baseurl }}/#news"
+    url: "#news"
 
   - title: "Publications"
-    url: "{{ site.baseurl }}/#publications"
+    url: "#publications"
 
   - title: "Honors and Awards"
-    url: "{{ site.baseurl }}/#honors-and-awards"
+    url: "#honors-and-awards"
 

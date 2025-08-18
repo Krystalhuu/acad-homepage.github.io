@@ -49,15 +49,15 @@
 #</script>
 
 <!-- For all browsers -->
-# <link rel="stylesheet" href="/assets/css/main.css">
+# <link rel="stylesheet" href="/acad-homepage.github.io/assets/css/main.css">
 
-<link rel="stylesheet" href="/assets/css/main.css">
+<link rel="stylesheet" href="/acad-homepage.github.io/assets/css/main.css">
 <meta http-equiv="cleartype" content="on">
 
 #<head>
- #   <base href="/" target="_blank">
+ #   <base href="/acad-homepage.github.io/" target="_blank">
 #</head>
-#<link rel="stylesheet" href="http://localhost:4000/assets/css/main.css">
+#<link rel="stylesheet" href="http://localhost:4000/acad-homepage.github.io/assets/css/main.css">
 
 #<meta http-equiv="cleartype" content="on">
 
@@ -101,34 +101,34 @@
       <ul class="visible-links">
           
             <li class="masthead__menu-item">
-              <a href="#about-me"
-                 class="nav-link"            
+              <a href="/acad-homepage.github.io#about-me"
+                 class="nav-link"
                  data-anchor="about-me">
-                About Me
+                 About Me
               </a>
             </li>
           
             <li class="masthead__menu-item">
-              <a href="#news"
-                 class="nav-link"            
+              <a href="/acad-homepage.github.io#news"
+                 class="nav-link"
                  data-anchor="news">
-                News
+                 News
               </a>
             </li>
           
             <li class="masthead__menu-item">
-              <a href="#publications"
-                 class="nav-link"            
+              <a href="/acad-homepage.github.io#publications"
+                 class="nav-link"
                  data-anchor="publications">
-                Publications
+                 Publications
               </a>
             </li>
           
             <li class="masthead__menu-item">
-              <a href="#honors-and-awards"
-                 class="nav-link"            
+              <a href="/acad-homepage.github.io#honors-and-awards"
+                 class="nav-link"
                  data-anchor="honors-and-awards">
-                Honors and Awards
+                 Honors and Awards
               </a>
             </li>
           
@@ -146,12 +146,13 @@ document.querySelectorAll('.nav-link[data-anchor]').forEach(link => {
       const anchor = this.getAttribute('data-anchor');
       const target = document.getElementById(anchor);
       if(target) {
+        const newUrl = '/acad-homepage.github.io/#' + anchor;
         // 两种跳转方式确保兼容性
         window.location.hash = anchor;
         target.scrollIntoView({ behavior: 'smooth' });
         
         // 更新浏览器地址（解决 GitHub Pages 的 baseurl 问题）
-        history.pushState(null, null, '#' + anchor);
+        history.pushState(null, null, '/acad-homepage.github.io/#' + anchor);
       }
     }
   });

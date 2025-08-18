@@ -10,7 +10,6 @@ redirect_from:
 
 <span id="about-me"></span>
 <br><br>
-<br><br>
 
 
 

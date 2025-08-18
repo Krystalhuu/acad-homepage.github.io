@@ -107,34 +107,35 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
-.masthead__menu nav {
-  display: flex;
-  justify-content: center;  /* 置中 */
-}
+
 
 .masthead__menu {
-  display: flex;
-  justify-content: center; /* 水平居中 */
+  display: flex !important;
+  justify-content: center !important;  /* 水平居中 */
+  width: 100% !important ;             /* 确保占满宽度 */
+  background: transparent;  /* 背景透明（可选） */
+  padding: 1rem 0;         /* 上下内边距（可选） */
 }
 
 
 .masthead__menu nav {
   display: flex;
-  justify-content: center;  /* nav 裡面置中 */
+  flex-direction: row;
+  flex-wrap: nowrap;
+  gap: 40px !important;               /* 链接之间的间距 */
+  list-style: none;        /* 移除列表样式 */
+  margin: 10;               /* 移除默认外边距 */
+  padding: 0;              /* 移除默认内边距 */
 }
 
-.masthead__menu ul.visible-links {
-  display: flex;
-  gap: 2rem; /* 每個 menu 之間間距 */
-  list-style: none;
-  padding: 0;
-  margin: 0; /* 避免 ul 預設 margin 擠掉按鈕 */
+.masthead__menu-item {
+  display: inline-block !important;
+  margin: 0 20px !important;
 }
-.masthead__menu button,
-.hidden-links {
-  display: none !important;
+.masthead__menu-item a {
+  font-size: 1.2rem;
+  font-weight: 600; 
 }
-
 
 
 

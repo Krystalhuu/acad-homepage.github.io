@@ -106,7 +106,8 @@ Advisor: Dr. Maria Betsi Grabe & Dr. Joshua Baldwin
 <br><br>
 
 [Preparing for ICA 2026]    
-*Emotions, Engagement, and National Identity: Computational Analysis of Public Discourses on AI in Chinese Weibo* 
+*Emotions, Engagement, and National Identity: Computational Analysis of Public Discourses on AI in Chinese Weibo*   
+
 **Xuening Hu**  
 Advisor: Dr. Ayse Lokmanoglu  
 <br><br>

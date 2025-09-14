@@ -17,7 +17,7 @@ redirect_from:
 Welcome to my website!
 <br><br>
 
-I am a Master's student in the College of Communication at Boston University, studying under the supervision of Drs.  [Maria Betsi Grabe](https://www.bu.edu/com/profile/maria-elizabeth-betsi-grabe/) and [James Cummings](https://www.bu.edu/com/profile/jim-cummings/). Before attending Boston University, I obtained my bachelor's degree at The Chinese University of Hong Kong —— School of Journalism and Communication.
+I am a Master's student in the College of Communication at Boston University, studying under the supervision of Dr.  [Maria Betsi Grabe](https://www.bu.edu/com/profile/maria-elizabeth-betsi-grabe/). Before attending Boston University, I obtained my bachelor's degree at The Chinese University of Hong Kong —— School of Journalism and Communication.
 
 My research focuses on the media effects of AI on user cognition and behavior across digital communication contexts. Most of my work was conducted through experiments and computational methods.
 <br><br>
@@ -26,9 +26,10 @@ My research focuses on the media effects of AI on user cognition and behavior ac
    
 🎀 Some keywords of my interests:  
 - Human-AI Interaction  
-- Human-centered AI Design
-- Media Effect
-- Emerging Media Technology
+- Media Psychology
+- Technology- Media Effect
+- Mind Perception and Heuristics
+- Emotion and Public Discourse
 - Experiment & Computational Methods
 <br><br>
 
@@ -51,17 +52,18 @@ My research focuses on the media effects of AI on user cognition and behavior ac
 *Can AI Customer Service Be Trusted? The Impact of Anthropomorphism and Response Strategy on Memory of Service Failures*   
 **Xuening Hu**, Ruochen Lvy, Shuyu Jia, Zi Deng, Jinyu Xu     
 *Advisor: Dr. James Cummings*  
-- Design a conversational chatbot using JavaScript, HTML, and CSS
-- Investigate the impact of AI customer service design on corporate communication
-- Apply biometric measure GSR to capture emotional and cognitive responses
+- Designed a conversational chatbot using JavaScript, HTML, and CSS
+- Investigated the impact of AI customer service design on corporate communication
+- Applied biometric measure GSR to capture emotional and cognitive responses
+- Provided empirical evidence on how explainable AI communication can forster trust while shaping customer relationship
 <br><br>
 
 **2025 · Association for Education in Journalism and Mass Communication (News and Online News Division)**  
 *A Mixed-Methods Study of Narrative Frames in Digital Disaster Reporting in Hong Kong and Mainland China*    
 **Xuening HU**  
 - A comparative content analysis of disaster reporting
-- Use mixed-methods combining manual coding and LDA
-- Integrate quantitative analysis with qualitative interpretation
+- Used mixed-methods combining manual coding and topic modeling (LDA)
+- Integrated quantitative analysis with qualitative interpretation
 
 
 
@@ -83,7 +85,7 @@ My research focuses on the media effects of AI on user cognition and behavior ac
 
 
 # 📖 Educations
-- *2024.09 - 2025.12 (now)*, MA. Emerging Media Studies, Boston University
+- *2024.09 - 2026.05 (now)*, MA. Emerging Media Studies, Boston University
 - *2020.09 - 2024.06*, B.S.Sc. Journalism and Communication, The Chinese University of Hong Kong
 - *2022.08 - 2023.01*, Exchange Study. Communication and New Media, National University of Singapore
 
@@ -94,29 +96,30 @@ My research focuses on the media effects of AI on user cognition and behavior ac
 # 👾 Working Paper
 [Master's Thesis]  
 *Talking to a Chatbot Therapist: Do Avatar Likeness and Empathy Expressiveness Influence Self-Disclosure?*   
-**Xuening HU**  
+**Xuening Hu**  
 Advisor: Dr. Maria Betsi Grabe & Dr. Joshua Baldwin
-- Ground in media psychology frameworks Computers as Social Actors (CASA) and machine heuristic
-- Investigate psychological mechanisms underlying user interaction with AI-powered therapeutic chatbots
-- Focus on individual cognition and behavioral change processes
-- Employ online experiments and Linguistic Inquiry and Word Count(LIWC)
+- Grounded in media psychology frameworks Computers as Social Actors (CASA) and machine heuristic
+- Investigated psychological mechanisms underlying user interaction with AI-powered therapeutic chatbots
+- Focused on individual cognition and behavioral change processes
+- Employed online experiments and Linguistic Inquiry and Word Count(LIWC)
+- [Click to try my chatbot:)](https://xueningchatbots.s3.us-east-2.amazonaws.com/test1/index.html)
 <br><br>
 
 [Preparing for ICA 2026]    
-*Does the origin matter? A comparative study of the public perception of Generative AI on Chinese Weibo*  
-**Xuening HU**  
+*Emotions, Engagement, and National Identity: Computational Analysis of Public Discourses on AI in Chinese Weibo* 
+**Xuening Hu**  
 Advisor: Dr. Ayse Lokmanoglu  
 <br><br>
 
 [Preparing for ICA 2026]  
-*AI Use in Higher Education: A Comparative Study of Faculty and Student Perceptions*  
-**Xuening HU**, Zhenguan Zhu, Xiaoruo Zhang, Yujie Li  
+*Ethics and mental shortcuts of AI adoption: Stakeholder perspectives in higher education*  
+Zhenguan Zhu, **Xuening Hu**,Xiaoruo Zhang, HsuanNing Wang, Yujie Li,Rufang Bai, Shuhan Wang, Tongxin Liu, Maria Elizabeth Grabe   
 Advisor: Dr. Maria Betsi Grabe  
 <br><br>
 
 [Preparing for ICA 2026]  
 *Understanding Platform Power in the AI Era: A Comparative Study on Alibaba and Amazon*  
-**Xuening HU**  
+**Xuening Hu**  
 Advisor: Dr. Chao Su Chris  
 
 <br><br>

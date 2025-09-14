@@ -113,7 +113,7 @@ Advisor: Dr. Ayse Lokmanoglu
 
 [Preparing for ICA 2026]  
 *Ethics and mental shortcuts of AI adoption: Stakeholder perspectives in higher education*  
-Zhenguan Zhu, **Xuening Hu**,Xiaoruo Zhang, HsuanNing Wang, Yujie Li,Rufang Bai, Shuhan Wang, Tongxin Liu, Maria Elizabeth Grabe   
+Zhenguan Zhu, **Xuening Hu**, Xiaoruo Zhang, HsuanNing Wang, Yujie Li, Rufang Bai, Shuhan Wang, Tongxin Liu, Maria Elizabeth Grabe   
 Advisor: Dr. Maria Betsi Grabe  
 <br><br>
 

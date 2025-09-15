@@ -96,7 +96,7 @@ I am seeking a PhD program beginning in Fall 2026 where I can gain advanced trai
 
 
 
-# 👾 Manscript in Preparation
+# 👾 Manuscript in Preparation
 [Master's Thesis]  
 *Talking to a Chatbot Therapist: Do Avatar Likeness and Empathy Expressiveness Influence Self-Disclosure?*   
 **Xuening Hu**  

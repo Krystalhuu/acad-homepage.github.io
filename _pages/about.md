@@ -17,9 +17,11 @@ redirect_from:
 Welcome to my website!
 <br><br>
 
-I am a Master's student in the College of Communication at Boston University, studying under the supervision of Dr.  [Maria Betsi Grabe](https://www.bu.edu/com/profile/maria-elizabeth-betsi-grabe/). Before attending Boston University, I obtained my bachelor's degree at The Chinese University of Hong Kong —— School of Journalism and Communication.
+I am a MA student in the College of Communication at Boston University, studying under the supervision of Dr.  [Maria Betsi Grabe](https://www.bu.edu/com/profile/maria-elizabeth-betsi-grabe/). Before attending Boston University, I obtained my bachelor's degree at The Chinese University of Hong Kong —— School of Journalism and Communication.
 
-My research focuses on the media effects of AI on user cognition and behavior across digital communication contexts. Most of my work was conducted through experiments and computational methods.
+My research focuses on the media effects of AI on user cognition and behavior across digital communication contexts. I use experiments to test individual mechanisms and computational methods to analyze the broader soceital implications.   
+  
+I am seeking a PhD program beginning in Fall 2026 where I can gain advanced training in media-technology research and quantitative methods. I would be glad to connect if you are interested in my research!
 <br><br>
 
 
@@ -30,7 +32,7 @@ My research focuses on the media effects of AI on user cognition and behavior ac
 - Technology- Media Effect
 - Mind Perception and Heuristics
 - Emotion and Public Discourse
-- Experiment & Computational Methods
+- Mixed-Methods(Experiment & Computational)
 <br><br>
 
 
@@ -45,7 +47,7 @@ My research focuses on the media effects of AI on user cognition and behavior ac
 
 <br><br>
 
-# 📝 Publications 
+# 📝Conference Publications 
 {: #publications }
 
 **2025 · National Communication Association (Communication and the Future Division)**  
@@ -85,6 +87,7 @@ My research focuses on the media effects of AI on user cognition and behavior ac
 
 
 # 📖 Educations
+{: #educations }
 - *2024.09 - 2026.05 (now)*, MA. Emerging Media Studies, Boston University
 - *2020.09 - 2024.06*, B.S.Sc. Journalism and Communication, The Chinese University of Hong Kong
 - *2022.08 - 2023.01*, Exchange Study. Communication and New Media, National University of Singapore
@@ -93,7 +96,7 @@ My research focuses on the media effects of AI on user cognition and behavior ac
 
 
 
-# 👾 Working Paper
+# 👾 Manscript in Preparation
 [Master's Thesis]  
 *Talking to a Chatbot Therapist: Do Avatar Likeness and Empathy Expressiveness Influence Self-Disclosure?*   
 **Xuening Hu**  
@@ -106,8 +109,7 @@ Advisor: Dr. Maria Betsi Grabe & Dr. Joshua Baldwin
 <br><br>
 
 [Preparing for ICA 2026]    
-*Emotions, Engagement, and National Identity: Computational Analysis of Public Discourses on AI in Chinese Weibo*   
-
+*Emotions, Engagement, and National Identity: Computational Analysis of Public Discourses on AI in Chinese Weibo*  
 **Xuening Hu**  
 Advisor: Dr. Ayse Lokmanoglu  
 <br><br>

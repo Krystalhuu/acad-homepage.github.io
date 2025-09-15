@@ -19,7 +19,7 @@ Welcome to my website!
 
 I am a MA student in the College of Communication at Boston University, studying under the supervision of Dr.  [Maria Betsi Grabe](https://www.bu.edu/com/profile/maria-elizabeth-betsi-grabe/). Before attending Boston University, I obtained my bachelor's degree at The Chinese University of Hong Kong —— School of Journalism and Communication.
 
-My research focuses on the media effects of AI on user cognition and behavior across digital communication contexts. I use experiments to test individual mechanisms and computational methods to analyze the broader soceital implications.   
+My research focuses on the media effects of AI on user cognition and behavior across digital communication contexts. I use experiments to test individual mechanisms and computational methods to analyze the broader societal implications.   
   
 I am seeking a PhD program beginning in Fall 2026 where I can gain advanced training in media-technology research and quantitative methods. I would be glad to connect if you are interested in my research!🌸
 <br><br>

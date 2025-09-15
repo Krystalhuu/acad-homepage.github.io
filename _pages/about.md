@@ -21,7 +21,7 @@ I am a MA student in the College of Communication at Boston University, studying
 
 My research focuses on the media effects of AI on user cognition and behavior across digital communication contexts. I use experiments to test individual mechanisms and computational methods to analyze the broader soceital implications.   
   
-I am seeking a PhD program beginning in Fall 2026 where I can gain advanced training in media-technology research and quantitative methods. I would be glad to connect if you are interested in my research!
+I am seeking a PhD program beginning in Fall 2026 where I can gain advanced training in media-technology research and quantitative methods. I would be glad to connect if you are interested in my research!🌸
 <br><br>
 
 
@@ -32,7 +32,7 @@ I am seeking a PhD program beginning in Fall 2026 where I can gain advanced trai
 - Technology- Media Effect
 - Mind Perception and Heuristics
 - Emotion and Public Discourse
-- Mixed-Methods(Experiment & Computational)
+- Mixed-Methods (Experiment & Computational)
 <br><br>
 
 
@@ -86,8 +86,8 @@ I am seeking a PhD program beginning in Fall 2026 where I can gain advanced trai
 
 
 
-# 📖 Educations
-{: #educations }
+# 📖 Education
+{: #education }
 - *2024.09 - 2026.05 (now)*, MA. Emerging Media Studies, Boston University
 - *2020.09 - 2024.06*, B.S.Sc. Journalism and Communication, The Chinese University of Hong Kong
 - *2022.08 - 2023.01*, Exchange Study. Communication and New Media, National University of Singapore

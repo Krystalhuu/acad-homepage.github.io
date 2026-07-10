@@ -10,7 +10,7 @@ baseurl: "/acad-homepage.github.io"
 url: "https://krystalhuu.github.io"
 
 title                    : "Krystal Xuening"
-description              : "Master's student in Boston University Emerging Media Studies. "
+description              : "Ph.D. student in Bellisario College of Communication "
 repository               : "Krystalhuu/acad-homepage.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -26,11 +26,12 @@ google_scholar_stats_use_cdn : false
 author:
   name             : "Xuening HU (Krystal)"
   avatar           : "images/personal web image/android-chrome-512x512.png"
-  bio              : "Boston University"
-  location         : "Boston, U.S."
-  major            : "Emerging Media Studies"
+  bio              : "Pennsylvania State University"
+  location         : "State College, U.S."
+  major            : "Bellisario College of Communications"
+  Master           : "Boston University"
   Undergraduate    : "The Chinese University of Hong Kong"
-  email            : "hxn2002@bu.edu"
+  email            : "xkh5157@psu.edu"
   Wechat           : "hxn20020119"
   instagram        : "krystal_huu"
   orcid		   : "https://orcid.org/0009-0001-2181-2521"

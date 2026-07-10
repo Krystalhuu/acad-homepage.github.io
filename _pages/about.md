@@ -17,11 +17,11 @@ redirect_from:
 Welcome to my website!
 <br><br>
 
-I am a MA student in the College of Communication at Boston University, studying under the supervision of Dr.  [Maria Betsi Grabe](https://www.bu.edu/com/profile/maria-elizabeth-betsi-grabe/). Before attending Boston University, I obtained my bachelor's degree at The Chinese University of Hong Kong —— School of Journalism and Communication.
+I am a Ph.D. student in the Bellisario College of Communications at Penn State University, studying under the supervision of Dr.  [S. Shyam Sundar](https://bellisario.psu.edu/people/s-shyam-sundar). Before joining Penn State, I earned my Master's degree from Boston University and my Bachelor's degree from The Chinese University of Hong Kong.
 
-My research focuses on the media effects of AI on user cognition and behavior across digital communication contexts. I use experiments to test individual mechanisms and computational methods to analyze the broader societal implications.   
+My research focuses on the media effects of AI on user cognition and behavior across digital communication. I use experiments to test individual mechanisms and computational methods to analyze the broader societal implications. I am also interested in how AI can improve accessibility and foster more inclusive communication.
   
-I am seeking a PhD program beginning in Fall 2026 where I can gain advanced training in media-technology research and quantitative methods. I would be glad to connect if you are interested in my research!🌸
+I would be glad to connect if you are interested in my research!🌸
 <br><br>
 
 
@@ -29,7 +29,6 @@ I am seeking a PhD program beginning in Fall 2026 where I can gain advanced trai
 🎀 Some keywords of my interests:  
 - Human-AI Interaction  
 - Media Psychology
-- Technology- Media Effect
 - Mind Perception and Heuristics
 - Emotion and Public Discourse
 - Mixed-Methods (Experiment & Computational)
@@ -39,10 +38,9 @@ I am seeking a PhD program beginning in Fall 2026 where I can gain advanced trai
 
 # ✨ News
 {: #news }
+- *2026.06*: &nbsp;🎉🎉 I attended my first trip to ICA and had the privilege of presenting two papers in the HMC Interest Group and the Instructional and Developmental Communication Division.
+- *2026.05*: &nbsp;🎉🎉 I have completed my thesis and graduated from Boston University College of Communication!
 - *2025.08*: &nbsp;🎉🎉 My first conference presentation, titled 'A Mixed-Methods Study of Narrative Frames in Digital Disaster Reporting in Hong Kong and Mainland China,' was delivered at the Association for Education in Journalism and Mass Communication (News and Online News Division).
-- *2025.07*: &nbsp;🎉🎉 Our work "Can AI Customer Service Be Trusted? The Impact of Anthropomorphism and Response Strategy on Memory of Service Failures" was accepted by National Communication Association (Communication and Future Division).
-- *2025.07*: &nbsp;🎊🎃 I was honored to receive the Graduate Student Research Award at Boston University College of Communication. 
-
 
 
 <br><br>
@@ -50,22 +48,38 @@ I am seeking a PhD program beginning in Fall 2026 where I can gain advanced trai
 # 📝Conference Publications 
 {: #publications }
 
+**2026 · Association for Education in Journalism and Mass Communication (Communication Technology Division)**  
+*Digital Infrastructure as the E in E-Governance: A Scoping Review*    
+Siru Chen, Qixuan He, **Xuening HU** 
+<br><br>
+
+
+[Master's Thesis]  
+**2026 · International Communication Association (Human-Machine Communication Division)**  
+*Talking to a Chatbot Therapist: Do Avatar Likeness and Empathy Expressiveness Influence Self-Disclosure?*  
+**Xuening Hu**  
+Advisor: Dr. Maria Betsi Grabe & Dr. Joshua Baldwin  
+- Grounded in media psychology frameworks Computers as Social Actors (CASA) and machine heuristic  
+- Investigated psychological mechanisms underlying user interaction with AI-powered therapeutic chatbots  
+- Focused on individual cognition and behavioral change processes  
+- Employed online experiments and Linguistic Inquiry and Word Count(LIWC)  
+<br><br>
+
+**2026 · International Communication Association (Instructional and Developmental Communication Division)**   
+*From Classroom to Workplace: A case study of ethics and AI adoption in higher education*    
+Zhenguan Zhu, **Xuening Hu**, Xiaoruo Zhang, HsuanNing Wang, Yujie Li, Rufang Bai, Shuhan Wang, Tongxin Liu, Maria Elizabeth Grabe     
+Advisor: Dr. Maria Betsi Grabe    
+<br><br>
+
 **2025 · National Communication Association (Communication and the Future Division)**  
 *Can AI Customer Service Be Trusted? The Impact of Anthropomorphism and Response Strategy on Memory of Service Failures*   
 **Xuening Hu**, Ruochen Lvy, Shuyu Jia, Zi Deng, Jinyu Xu     
-*Advisor: Dr. James Cummings*  
-- Designed a conversational chatbot using JavaScript, HTML, and CSS
-- Investigated the impact of AI customer service design on corporate communication
-- Applied biometric measure GSR to capture emotional and cognitive responses
-- Provided empirical evidence on how explainable AI communication can forster trust while shaping customer relationship
+Advisor: Dr. James Cummings  
 <br><br>
 
 **2025 · Association for Education in Journalism and Mass Communication (News and Online News Division)**  
 *A Mixed-Methods Study of Narrative Frames in Digital Disaster Reporting in Hong Kong and Mainland China*    
 **Xuening HU**  
-- A comparative content analysis of disaster reporting
-- Used mixed-methods combining manual coding and topic modeling (LDA)
-- Integrated quantitative analysis with qualitative interpretation
 
 
 
@@ -88,7 +102,8 @@ I am seeking a PhD program beginning in Fall 2026 where I can gain advanced trai
 
 # 📖 Education
 {: #education }
-- *2024.09 - 2026.05 (now)*, MA. Emerging Media Studies, Boston University
+- *2026.09 - 2030.05 (now)*, Ph.D. Mass Communication, Bellisario College of Communications at PennState University
+- *2024.09 - 2026.05*, MA. Emerging Media Studies, Boston University
 - *2020.09 - 2024.06*, B.S.Sc. Journalism and Communication, The Chinese University of Hong Kong
 - *2022.08 - 2023.01*, Exchange Study. Communication and New Media, National University of Singapore
 
@@ -97,32 +112,22 @@ I am seeking a PhD program beginning in Fall 2026 where I can gain advanced trai
 
 
 # 👾 Manuscript in Preparation
-[Master's Thesis]  
-*Talking to a Chatbot Therapist: Do Avatar Likeness and Empathy Expressiveness Influence Self-Disclosure?*   
-**Xuening Hu**  
-Advisor: Dr. Maria Betsi Grabe & Dr. Joshua Baldwin
-- Grounded in media psychology frameworks Computers as Social Actors (CASA) and machine heuristic
-- Investigated psychological mechanisms underlying user interaction with AI-powered therapeutic chatbots
-- Focused on individual cognition and behavioral change processes
-- Employed online experiments and Linguistic Inquiry and Word Count(LIWC)
-- [Click to try my chatbot:)](https://xueningchatbots.s3.us-east-2.amazonaws.com/test1/index.html)
-<br><br>
 
-[Preparing for ICA 2026]    
+[Under Review]    
 *Emotions, Engagement, and National Identity: Computational Analysis of Public Discourses on AI in Chinese Weibo*  
-**Xuening Hu**  
-Advisor: Dr. Ayse Lokmanoglu  
+**Xuening Hu**, Siru Chen  
+Advisor: Dr. Ayse Lokmanoglu
 <br><br>
 
-[Preparing for ICA 2026]  
-*Ethics and mental shortcuts of AI adoption: Stakeholder perspectives in higher education*  
-Zhenguan Zhu, **Xuening Hu**, Xiaoruo Zhang, HsuanNing Wang, Yujie Li, Rufang Bai, Shuhan Wang, Tongxin Liu, Maria Elizabeth Grabe   
-Advisor: Dr. Maria Betsi Grabe  
+[Under Review]  
+*From Classroom to Workplace: A Case Study of Ethics and AI Adoption in Higher Education*
+Zhenguan Zhu, **Xuening Hu**, Maria Betsi Grabe  
+Advisor: Dr. Maria Betsi Grabe
 <br><br>
 
-[Preparing for ICA 2026]  
+[In Progress]  
 *Understanding Platform Power in the AI Era: A Comparative Study on Alibaba and Amazon*  
-**Xuening Hu**  
+**Xuening Hu**, Chris Chao Su, Chang Liu
 Advisor: Dr. Chao Su Chris  
 
 <br><br>

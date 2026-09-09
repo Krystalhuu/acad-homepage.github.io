@@ -50,7 +50,7 @@ I would be glad to connect if you are interested in my research!🌸
 
 **2026 · Association for Education in Journalism and Mass Communication (Communication Technology Division)**  
 *Digital Infrastructure as the E in E-Governance: A Scoping Review*    
-Siru Chen, Qixuan He, **Xuening HU** 
+Siru Chen,**Xuening HU**, Qixuan He  
 <br><br>
 
 
